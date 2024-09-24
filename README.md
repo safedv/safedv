@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there, I'm Davide 👋
 
-<!--
-**safedv/safedv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT enthusiast with a hands-on approach to solving tech puzzles. I’m passionate about ethical hacking, offensive tool development, and finding creative ways to outsmart security measures. From **Penetration Testing** to **Red Team Operations**, I’m always learning new tricks to improve my craft.
 
-Here are some ideas to get you started:
+**Always curious, always learning.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👤 A bit about me:
+
+- 💼 Currently working as a Cybersecurity Specialist at Deloitte
+- 📚 Always expanding my knowledge and honing my skills in cybersecurity
+- 🧠 I'm currently a student at HackTheBox Academy
+- 🎮 CTF enthusiast and competitive player
+- 🛠️ Programming languages: Rust, C, C++, C#, Python
+
+#### 🌐 Let's connect:
+
+- 💼 Stay connected and follow my professional journey on [LinkedIn](https://www.linkedin.com/in/davide-valitutti/)
+- 🐦 Sharing tech insights and a mix of humor on [Twitter](https://x.com/safe0x17)
+
+---
