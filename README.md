@@ -15,6 +15,6 @@ I'm an IT enthusiast with a hands-on approach to solving tech puzzles. I’m pas
 #### 🌐 Let's connect:
 
 - 💼 Stay connected and follow my professional journey on [LinkedIn](https://www.linkedin.com/in/davide-valitutti/)
-- 🐦 Sharing tech insights and a mix of humor on [Twitter](https://x.com/safe0x17)
+- 🐦 Sharing tech insights and a mix of humor on [X](https://x.com/safe0x17)
 
 ---
