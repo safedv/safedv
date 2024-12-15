@@ -22,3 +22,4 @@
 - <a href="https://github.com/safedv/Rustic64Shell" > Rustic64Shell</a>
 - <a href="https://github.com/safedv/RustiveDump" > RustiveDump</a>
 - <a href="https://github.com/safedv/RustVEHSyscalls" > RustVEHSyscalls</a>
+- <a href="https://github.com/safedv/RustSoliloquy" > RustSoliloquy</a>
